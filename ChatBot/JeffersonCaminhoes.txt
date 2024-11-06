@@ -1,0 +1,18 @@
+Cliente: quando posso conseguir um caminhoes ???
+Chatbot: Trabalhando... vagabundo 
+Cliente: Nossa grosso 
+Chatbot: vai trabalha e depois vem falar comigo 
+Cliente: Tenho familia apresento eu trabalho n√£o sei se conhece carteira de trabalho 
+Chatbot: Vagabundo...
+Cliente: qual È a capital do mexico 
+Chatbot: cidade do mexico
+Cliente: quero comprar um caminhao 
+Chatbot: um caminhao 
+Cliente: & C:/Python312/python.exe "c:/Users/CTRLPLAY 06/Documents/ChatBot/CodDoJefferson.py"
+Chatbot: & C:/Python312/python.exe "c:/Users/CTRLPLAY 06/Documents/ChatBot/CodDoJefferson.py"
+Cliente: caminhao
+Chatbot: caminhao 
+Cliente: Nao
+Chatbot: Tenho familia apresento trabalho nao sei se conhece carateira de trabalho 
+Cliente: sim 
+Chatbot: tenho familia apresento eu trabalho nao sei se conhece carteira de trbalaho jfk
